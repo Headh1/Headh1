@@ -17,27 +17,28 @@
 
  <h3 align="center"><b>👩 Mini Project </b></h3>
    <p> 
-      라라벨을 활용하여 만드는 기본적인 게시판 사이트
-     <a href="https://github.com/Headh1/Laravel_board">github 소스</a> 
+      라라벨을 활용하여 만드는 기본적인 게시판 사이트 <br>
+     <a href="https://github.com/Headh1/Laravel_board">github 소스코드</a> 
    </p>
    
    <p> 
-     php mvc모델을 활용한 요리 쇼핑 사이트 제작
-     <a href="https://github.com/Headh1/TOYPROJECT_shopping">github 소스</a> 
+     php mvc모델을 활용한 요리 쇼핑 사이트 제작 <br>
+     <a href="https://github.com/Headh1/TOYPROJECT_shopping">github 소스코드</a> 
    </p>
  
  <h3 align="center"><b>👩‍👩‍👧‍👦 Team Project </b></h3>
  <p> 1차 프로젝트 - 여행 투두 리스트 To Day Trip 
-   <a href="https://github.com/PHP-506-1/PHP_1STPJ">github 소스</a> / 
+   <br>
+   <a href="https://github.com/PHP-506-1/PHP_1STPJ">github 소스코드</a> / 
    <a href="https://www.canva.com/design/DAFg_xMHO8g/lkC85MyVEzOh9occNkLo7Q/edit?utm_content=DAFg_xMHO8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT</a>
    <br>
  </p>
  <p> 
    2차 ,3차 프로젝트 - 캐릭터와 함께하는 자산관리 서비스 FIN.Mate 
    <br>
-   2차 <a href="https://github.com/PHP-506-Money/2nd_project_v2">github 소스</a> / 
+   2차 <a href="https://github.com/PHP-506-Money/2nd_project_v2">github 소스코드</a> / 
    <a href="https://www.canva.com/design/DAFnEcnBGaU/K_kCQ6fQAn2AzgaaI5ULEA/editutm_content=DAFnEcnBGaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PPT</a><br>
- 3차 <a href="https://github.com/PHP-506-Money/3rd_project"> github 소스</a> / 
+ 3차 <a href="https://github.com/PHP-506-Money/3rd_project"> github 소스코드</a> / 
  <a href="https://www.canva.com/design/DAFpnSI6ZK8/Gk4uoCfI-7-dKKoVfqFjGg/edit?utm_content=DAFpnSI6ZK8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PPT</a><br>
  </p>
  
