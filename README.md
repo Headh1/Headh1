@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Hello&fontSize=90)
-
 <div align=center>
-  <p> 안녕하세요 php 풀스택 신입개발자 김진아 입니다! </p>
+  <p> 👋 안녕하세요 php 풀스택 신입개발자 김진아 입니다! </p>
 </div>
   
 <div align=center>
