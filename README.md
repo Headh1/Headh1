@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=JIN A%20Github&fontSize=90" />
 </div>
 
-  ## Hi there 👋
-  ### php 풀스택 신입개발자 김진아 입니다!
+<div align=center>
+  <p> 안녕하세요 php 풀스택 신입개발자 김진아 입니다! </p>
+</div>
   
 <div align=center>
-  ## :computer: SKILL
+  <h3 align="center"><b> :computer: SKILL </b></h3>
   <p align="center">
     <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
