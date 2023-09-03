@@ -22,17 +22,17 @@
  <h3 align="center"><b>👩‍👩‍👧‍👦 Team Project </b></h3>
  <p> 1차 프로젝트 - 여행 투두 리스트 To Day Trip 
    <br>
-   <a href="https://github.com/PHP-506-1/PHP_1STPJ">github 소스</a><br> /
+   <a href="https://github.com/PHP-506-1/PHP_1STPJ">github 소스</a> / 
    <a href="https://www.canva.com/design/DAFg_xMHO8g/lkC85MyVEzOh9occNkLo7Q/edit?utm_content=DAFg_xMHO8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT</a><br>
  </p>
  <p> 2차 ,3차 프로젝트 - 캐릭터와 함께하는 자산관리 서비스 FIN.Mate 
    <br>
  2차 
- <a href="https://github.com/PHP-506-Money/2nd_project_v2">github 소스</a><br>
+ <a href="https://github.com/PHP-506-Money/2nd_project_v2">github 소스</a> / 
  <a href="https://www.canva.com/design/DAFnEcnBGaU/K_kCQ6fQAn2AzgaaI5ULEA/edit?utm_content=DAFnEcnBGaU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PPT</a><br>
    <br>
- 3차 <a href="https://github.com/PHP-506-Money/3rd_project"> github 소스</a><br>  / 
- 3차 <a href="https://www.canva.com/design/DAFpnSI6ZK8/Gk4uoCfI-7-dKKoVfqFjGg/edit?utm_content=DAFpnSI6ZK8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PPT</a><br>
+ 3차 <a href="https://github.com/PHP-506-Money/3rd_project"> github 소스</a> / 
+ <a href="https://www.canva.com/design/DAFpnSI6ZK8/Gk4uoCfI-7-dKKoVfqFjGg/edit?utm_content=DAFpnSI6ZK8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PPT</a><br>
  </p>
  
 <h3 align="center"><b>🔎 Portfolio </b></h3>
