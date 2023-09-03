@@ -22,13 +22,15 @@
  <h3 align="center"><b>👩‍👩‍👧‍👦 Team Project </b></h3>
  <p> 1차 프로젝트 - 여행 투두 리스트 To Day Trip 
    <br>
- github / PPT
+   <a href="https://github.com/PHP-506-1/PHP_1STPJ">github 소스</a><br> / PPT
  </p>
  <p> 2차 ,3차 프로젝트 - 캐릭터와 함께하는 자산관리 서비스 FIN.Mate 
    <br>
- 2차 github / PPT
+ 2차 
+ <a href="https://github.com/PHP-506-Money/2nd_project_v2">github 소스</a><br>
+   <a > github </a> / PPT
    <br>
- 3차 github / PPT
+ 3차 <a href="https://github.com/PHP-506-Money/3rd_project"> github 소스</a><br>  /  PPT
  </p>
  
 <h3 align="center"><b>🔎 Portfolio </b></h3>
