@@ -21,10 +21,13 @@
  
  <h3 align="center"><b>👩‍👩‍👧‍👦 Team Project </b></h3>
  <p> 1차 프로젝트 - 여행 투두 리스트 To Day Trip 
+   <br>
  github / PPT
  </p>
  <p> 2차 ,3차 프로젝트 - 캐릭터와 함께하는 자산관리 서비스 FIN.Mate 
+   <br>
  2차 github / PPT
+   <br>
  3차 github / PPT
  </p>
  
