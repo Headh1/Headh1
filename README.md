@@ -1,6 +1,4 @@
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=JIN A%20Github&fontSize=90" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align=center>
   <p> 안녕하세요 php 풀스택 신입개발자 김진아 입니다! </p>
