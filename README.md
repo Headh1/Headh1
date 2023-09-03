@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=JIN A%20Github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=JIN A%20Github&fontSize=90" />
 </div>
 
 <div align=center>
@@ -18,8 +18,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=BootstraplogoColor=#FFFFFF"/>
  </p>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Headh1)](https://github.com/Headh1/github-readme-stats)
 
  <h3 align="center"><b>👩 Mini Project </b></h3>
  <p> </p>
