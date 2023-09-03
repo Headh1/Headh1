@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Jin A GITHUB%20render&fontSize=90" />
 
-<div align=center>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Jin A %20GITHUB&fontSize=90)
+
   ## Hi there 👋
   ### php 풀스택 신입개발자 김진아 입니다!
   
+<div align=center>
   ## :computer: SKILL
   <p align="center">
     <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
