@@ -1,6 +1,8 @@
 <div align=center>
   <p> 👋 안녕하세요 신입개발자 김진아 입니다! </p>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Headh1)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align=center>
   <h3 align="center"><b> :computer: SKILL </b></h3>
