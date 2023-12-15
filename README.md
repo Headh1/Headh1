@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=BootstraplogoColor=#FFFFFF"/>
  </p>
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Headh1&layout=compact"><br><br>
+
  <h3 align="center"><b>👩 Mini Project </b></h3>
    <p> 
       라라벨을 활용하여 만드는 기본적인 게시판 사이트 <br>
