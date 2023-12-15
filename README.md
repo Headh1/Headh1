@@ -1,12 +1,11 @@
 <div align=center>
   <p> 👋 안녕하세요 신입개발자 김진아 입니다! </p>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Headh1)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align=center>
   <h3 align="center"><b> :computer: SKILL </b></h3>
   <p align="center">
+    <img alt="JAVA" src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
     <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/>
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white">
     <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white"/>
